@@ -1,4 +1,5 @@
 # widget-rest
+![Java CI with Maven](https://github.com/DmitryLevykin/widget-rest/workflows/Java%20CI%20with%20Maven/badge.svg)
 
 ### Widget REST Service
 
